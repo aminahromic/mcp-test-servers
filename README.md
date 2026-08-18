@@ -15,7 +15,7 @@ This is the session-based Streamable HTTP MCP server. It:
 - Exposes 4 tools: `get_time`, `search`, `generate_report`, `run_heavy_task`.
 
 A sibling folder ( `../mcp-test-server-standard-stateless`)
-contain **stateless** variants with different behavior (do not require session id). 
+contains **stateless** variants with different behavior (do not require session id). 
 
 ## Authentication model
 
